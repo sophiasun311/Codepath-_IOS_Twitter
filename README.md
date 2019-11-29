@@ -19,13 +19,6 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<a href="https://cl.ly/6f7e5af1c138" target="_blank"><img src="https://d3r69eeiwn2k86.cloudfront.net/items/003Z0O1K3o2z1d2K0i1e/Screen%20Recording%202019-02-26%20at%2008.17%20PM.gif" style="display: block;height: auto;width: 100%;"/></a>
-
-
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
@@ -50,4 +43,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://cl.ly/eb0d1c46fe77" target="_blank"><img src="https://d3r69eeiwn2k86.cloudfront.net/items/2w1G0y1k432P153g1P42/Screen%20Recording%202019-03-11%20at%2011.05%20PM.gif" style="display: block;height: auto;width: 100%;"/></a>
+<a href="https://recordit.co/b8lS3gTHAF" target="_blank"><img src="https://recordit.co/b8lS3gTHAF.gif" style="display: block;height: auto;width: 100%;"/></a>
